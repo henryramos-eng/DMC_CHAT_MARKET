@@ -1,0 +1,74 @@
+[
+  {
+    "id": "faq-01",
+    "question": "¿Cuál es la tendencia actual del mercado de granos?",
+    "publication_date": "2026-09-04",
+    "expected_page": 1
+  },
+  {
+    "id": "faq-02",
+    "question": "¿Qué está esperando el mercado antes de tomar una dirección más clara?",
+    "publication_date": "2026-09-04",
+    "expected_page": 1
+  },
+  {
+    "id": "faq-03",
+    "question": "¿Qué informó China sobre sus reservas de soja?",
+    "publication_date": "2026-09-04",
+    "expected_page": 1
+  },
+  {
+    "id": "faq-04",
+    "question": "¿Cuál es la situación del maíz en Francia?",
+    "publication_date": "2026-09-04",
+    "expected_page": 1
+  },
+  {
+    "id": "faq-05",
+    "question": "¿Cuánto grano ha cosechado Rusia?",
+    "publication_date": "2026-09-04",
+    "expected_page": 1
+  },
+  {
+    "id": "faq-06",
+    "question": "¿Cómo fueron las ventas de exportación de soja 2026/27?",
+    "publication_date": "2026-09-04",
+    "expected_page": 1
+  },
+  {
+    "id": "faq-07",
+    "question": "¿Cómo fueron las ventas de harina de soja 2026/27?",
+    "publication_date": "2026-09-04",
+    "expected_page": 1
+  },
+  {
+    "id": "faq-08",
+    "question": "¿Qué condiciones climáticas se esperan para Estados Unidos?",
+    "publication_date": "2026-09-04",
+    "expected_page": 1
+  },
+  {
+    "id": "faq-09",
+    "question": "¿Qué condiciones climáticas se esperan para Argentina y Brasil?",
+    "publication_date": "2026-09-04",
+    "expected_page": 1
+  },
+  {
+    "id": "faq-10",
+    "question": "¿Cuál es la posición estimada de los fondos en soja, harina y aceite?",
+    "publication_date": "2026-09-04",
+    "expected_page": 1
+  },
+  {
+    "id": "faq-11",
+    "question": "¿Cómo cotizaban soja, harina y aceite durante la sesión nocturna?",
+    "publication_date": "2026-09-04",
+    "expected_page": 1
+  },
+  {
+    "id": "faq-12",
+    "question": "¿Cuáles son los principales factores relevantes del reporte?",
+    "publication_date": "2026-09-04",
+    "expected_page": 1
+  }
+]

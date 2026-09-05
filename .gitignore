@@ -1,0 +1,14 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.log
+
+# Artefactos reproducibles del RAG.
+data/processed/*
+data/reports/*
+!data/processed/.gitkeep
+!data/reports/.gitkeep
