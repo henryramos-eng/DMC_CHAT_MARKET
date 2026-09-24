@@ -1,0 +1,17 @@
+{
+  "publication_date": "2026-08-31",
+  "created_at_utc": "2026-09-24T19:51:27.369520+00:00",
+  "rag_index_dir": "data\\processed\\rag\\morning_grain_comments_04092026",
+  "technical_source": "data\\technical\\checklist_tecnico.xlsx",
+  "technical_json": "data\\processed\\technical\\checklist_tecnico.json",
+  "text_backend": "openai:gpt-5-mini",
+  "evidence_guardrails": true,
+  "image_count": 5,
+  "images": [
+    "data\\generated\\bulletins\\2026-08-31\\01_soya_qbs.png",
+    "data\\generated\\bulletins\\2026-08-31\\02_harina_soya_qsm.png",
+    "data\\generated\\bulletins\\2026-08-31\\03_aceite_soya_qbo.png",
+    "data\\generated\\bulletins\\2026-08-31\\04_petroleo_wti_cl.png",
+    "data\\generated\\bulletins\\2026-08-31\\05_diesel_ulsd_ho.png"
+  ]
+}

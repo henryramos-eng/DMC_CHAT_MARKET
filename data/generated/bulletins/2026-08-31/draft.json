@@ -1,0 +1,98 @@
+{
+  "title": "Boletín Interno de Commodities - 31/08/2026",
+  "classification": "Bajista",
+  "executive_summary": "Mercados muestran toma de ganancias tras avances recientes. Persisten riesgos climáticos y flujos de posición que mantienen la volatilidad.",
+  "highlights": [
+    "Fuerte entrada de fondos administrados en contratos de maíz y soja según el informe CFTC.",
+    "Clima mayormente cálido y seco en el corazón agrícola de EE. UU. para la próxima semana.",
+    "Tender internacional de Jordania por trigo de molienda con plazo cercano.",
+    "Cambio en rutas de exportación rusas hacia puertos bálticos reportado por SovEcon.",
+    "Ajuste al alza en estimación privada de la cosecha de maíz brasileña por Safras & Mercado."
+  ],
+  "sections": [
+    {
+      "title": "Titulares de Mercado",
+      "body": "Reporte CFTC muestra entradas netas significativas de dinero administrado en maíz y soja la semana pasada. CBOT registró tomas de ganancias después de máximos recientes."
+    },
+    {
+      "title": "Clima",
+      "body": "Precipitaciones concentradas en el norte del Corn Belt con cobertura menor a la esperada. Temperaturas por encima de lo normal mantendrán condición de secado en áreas clave."
+    },
+    {
+      "title": "Fundamentales",
+      "body": "Actualización estacional de soja muestra reciente máximo contractual para la posición de noviembre. Flujos de exportación y cambios logísticos en Rusia son factores a monitorear."
+    },
+    {
+      "title": "Control de evidencia",
+      "body": "Clasificación y análisis calculados desde el Excel. Factores energéticos limitados a evidencia técnica porque el reporte documental es de granos."
+    }
+  ],
+  "backend": "openai:gpt-5-mini",
+  "commodity_insights": [
+    {
+      "symbol": "QBS",
+      "classification": "Alcista",
+      "analysis_lines": [
+        "Precio por encima de MA20; el sesgo técnico permanece positivo.",
+        "RSI en 74, dentro de zona de sobrecompra."
+      ],
+      "factors": [
+        "Informe del boletín indica un máximo contractual reciente para soja.",
+        "El RSI técnico es elevado, indicando condición cercana a sobrecompra.",
+        "El MACD muestra impulso positivo desde promedios móviles largos."
+      ]
+    },
+    {
+      "symbol": "QSM",
+      "classification": "Alcista",
+      "analysis_lines": [
+        "Precio por encima de MA20; el sesgo técnico permanece positivo.",
+        "RSI en 72, dentro de zona de sobrecompra."
+      ],
+      "factors": [
+        "RSI técnico se encuentra en zona elevada.",
+        "El MACD presenta tendencia positiva respecto a su señal.",
+        "Las EMAs largas muestran sesgo alcista sostenido."
+      ]
+    },
+    {
+      "symbol": "QBO",
+      "classification": "Alcista",
+      "analysis_lines": [
+        "Precio por encima de MA20; el sesgo técnico permanece positivo.",
+        "RSI en 58; MACD por encima de su señal."
+      ],
+      "factors": [
+        "RSI técnico se mantiene en rango medio.",
+        "El MACD presenta ligera divergencia positiva.",
+        "La EMA50 está posicionada por encima de EMAs más largas, respaldando sesgo neutro-moderado."
+      ]
+    },
+    {
+      "symbol": "CL",
+      "classification": "Alcista",
+      "analysis_lines": [
+        "Precio por encima de MA20; el sesgo técnico permanece positivo.",
+        "RSI en 60; MACD por encima de su señal."
+      ],
+      "factors": [
+        "El cierre se mantiene por encima de la media de 20 sesiones.",
+        "RSI actual de 60.0 y MACD de 1.48.",
+        "Variación diaria de +3.10%; lectura alcista."
+      ]
+    },
+    {
+      "symbol": "HO",
+      "classification": "Alcista",
+      "analysis_lines": [
+        "Precio por encima de MA20; el sesgo técnico permanece positivo.",
+        "RSI en 65; MACD por debajo de su señal."
+      ],
+      "factors": [
+        "El cierre se mantiene por encima de la media de 20 sesiones.",
+        "RSI actual de 65.4 y MACD de 0.13.",
+        "Variación diaria de +4.39%; lectura alcista."
+      ]
+    }
+  ]
+}

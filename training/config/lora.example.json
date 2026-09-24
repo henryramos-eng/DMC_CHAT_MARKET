@@ -1,0 +1,10 @@
+{
+  "base_model": "REEMPLAZAR_CON_MODELO_OPEN_WEIGHT_COMPATIBLE",
+  "epochs": 3,
+  "learning_rate": 0.0002,
+  "max_length": 2048,
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "target_modules": ["q_proj", "v_proj"]
+}

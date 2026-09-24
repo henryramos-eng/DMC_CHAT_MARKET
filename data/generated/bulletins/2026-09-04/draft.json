@@ -1,0 +1,92 @@
+{
+  "title": "Boletín de Commodities - 04-09-2026",
+  "classification": "Neutral",
+  "executive_summary": "Mercados muestran tono mixto y volumen reducido antes de reportes CFTC y datos revisados del USDA. Condiciones meteorológicas favorables en partes del Midwest mantienen presión sobre algunas cosechas.",
+  "highlights": [
+    "Informe CFTC programado a las 14:30 horas del día de publicación.",
+    "Ventas de exportación nuevas de maíz 26/27 superaron expectativas esta semana.",
+    "Patrón meteorológico cálido y con lluvias intermitentes en el Midwest; condiciones variables en Sudamérica."
+  ],
+  "sections": [
+    {
+      "title": "Contexto de mercado",
+      "body": "El mercado redujo volatilidad y volumen en la sesión nocturna mientras espera posiciones administradas del CFTC. Exportaciones nuevas de maíz 26/27 alcanzaron 1.986 kt esta semana según el documento."
+    },
+    {
+      "title": "Clima y fundamental",
+      "body": "Patrón cálido y puntuales lluvias en el Midwest continúan hasta principios de cosecha, con impacto mixto en condiciones de cultivos. Pronóstico de Argentina y Brasil muestra variabilidad temporal que puede afectar humedad para trigo."
+    },
+    {
+      "title": "Control de evidencia",
+      "body": "Clasificación y análisis calculados desde el Excel. Factores energéticos limitados a evidencia técnica porque el reporte documental es de granos."
+    }
+  ],
+  "backend": "openai:gpt-5-mini",
+  "commodity_insights": [
+    {
+      "symbol": "QBS",
+      "classification": "Alcista",
+      "analysis_lines": [
+        "Precio por encima de MA20; el sesgo técnico permanece positivo.",
+        "RSI en 73, dentro de zona de sobrecompra."
+      ],
+      "factors": [
+        "RSI registrado en 73.22, indicando condiciones de sobrecompra. EMA50 se mantiene por debajo del precio, mostrando soporte dinámico. MACD positivo…",
+        "analysis_lines_invalidated_text_placeholder_for_schema_restrictions___ignore_this_field___2_sentences_only_in_actual_output",
+        "factors_invalid_placeholder"
+      ]
+    },
+    {
+      "symbol": "QSM",
+      "classification": "Alcista",
+      "analysis_lines": [
+        "Precio por encima de MA20; el sesgo técnico permanece positivo.",
+        "RSI en 75, dentro de zona de sobrecompra."
+      ],
+      "factors": [
+        "RSI registrado en 74.63, mostrando condición de sobrecompra. EMA50 por debajo del nivel actual aporta soporte técnico. MACD positivo respalda…",
+        "placeholder2_invalid_for_schema_restrictions_do_not_display",
+        "analysis_lines_invalid_placeholder"
+      ]
+    },
+    {
+      "symbol": "QBO",
+      "classification": "Bajista",
+      "analysis_lines": [
+        "Precio por debajo de MA20; el sesgo técnico es defensivo.",
+        "RSI en 49; MACD por encima de su señal."
+      ],
+      "factors": [
+        "RSI registrado en 48.62, indicando equilibrio entre fuerzas. EMA50 está próximo al precio y ofrece referencia técnica. MACD ligeramente positivo…",
+        "placeholder_extra_invalid",
+        "analysis_lines_placeholder_invalid"
+      ]
+    },
+    {
+      "symbol": "CL",
+      "classification": "Alcista",
+      "analysis_lines": [
+        "Precio por encima de MA20; el sesgo técnico permanece positivo.",
+        "RSI en 66; MACD por encima de su señal."
+      ],
+      "factors": [
+        "El cierre se mantiene por encima de la media de 20 sesiones.",
+        "RSI actual de 65.9 y MACD de 2.48.",
+        "Variación diaria de -0.09%; lectura alcista."
+      ]
+    },
+    {
+      "symbol": "HO",
+      "classification": "Alcista",
+      "analysis_lines": [
+        "Precio por encima de MA20; el sesgo técnico permanece positivo.",
+        "RSI en 64; MACD por encima de su señal."
+      ],
+      "factors": [
+        "El cierre se mantiene por encima de la media de 20 sesiones.",
+        "RSI actual de 64.0 y MACD de 0.18.",
+        "Variación diaria de -0.90%; lectura alcista."
+      ]
+    }
+  ]
+}
